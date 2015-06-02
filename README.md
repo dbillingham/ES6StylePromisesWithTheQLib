@@ -1,7 +1,7 @@
 ES6StylePromisesWithTheQLib
 ============================
 
-Exmaple of how to use the $q library using more ES6 style syntax.
+Example of how to use the $q library using more ES6 style syntax.
 
 #Intro
 Within the popular AngularJs framework is a promise library called $q.  Although not commonly used, as services such as $http and $timeout will automatically return a promise for you, I do sometimes find the need when calling multiple promises. 
